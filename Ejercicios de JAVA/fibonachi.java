@@ -17,5 +17,6 @@ public class fibonachi {
             numeroFinal=nulo;
             System.out.println(numeroFinal);
         }
+        escaner.close();
     }
 }

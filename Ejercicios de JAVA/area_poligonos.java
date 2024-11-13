@@ -30,6 +30,6 @@ public class area_poligonos {
             default:
                 break;
         }
-
+        escaner.close();
     }
 }

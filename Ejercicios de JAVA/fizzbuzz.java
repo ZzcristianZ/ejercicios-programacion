@@ -21,6 +21,7 @@ public class fizzbuzz {
                 System.out.println(i);
             }
         }
+        escaner.close();
     }
     
 }

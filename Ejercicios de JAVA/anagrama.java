@@ -9,7 +9,7 @@ public class anagrama {
 
         int contador = 0;
         int long_palabra_1=palabra_1.length;
-        int long_palabra_2=palabra_2.length;
+        
         
         for (int i = 0; i < palabra_1.length; i++) {
             for (int j = 0; j < palabra_2.length; j++) {
@@ -27,6 +27,6 @@ public class anagrama {
         }else{
             System.out.println("no son anagramas");
         }
-
+        
     }
 }

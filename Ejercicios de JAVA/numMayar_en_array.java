@@ -16,5 +16,6 @@ public class numMayar_en_array {
             
         }
         System.out.println("el mayor numero es "+Mayor);
+        escaner.close();
     }
 }
